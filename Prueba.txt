@@ -1,0 +1,12 @@
+int x;
+int y;
+float z;
+x = 10;
+y = 20;
+z = x + y * 2;
+if (x < y) {
+    print z;
+}
+while (x < 100) {
+    x = x + 1;
+}
